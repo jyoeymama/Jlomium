@@ -16,7 +16,7 @@ Here is the GitHub repository for BunnyBSD: https://github.com/jyoeymama/BunnyBS
 
 Here is the GitHub repository for BunnyBSD-Ports: https://github.com/jyoeymama/BunnyBSD-Ports
 
-Documentation in the source is rooted in [docs/README.md](docs/README.md).
+Documentation in the source for Jlomium is rooted in [docs/README.md](docs/README.md).
 
 Learn how to [Get Around the Chromium Source Code Directory
 Structure](https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code).
