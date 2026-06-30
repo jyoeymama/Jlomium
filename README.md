@@ -1,6 +1,6 @@
 <img width="64" height="64" alt="product_logo_64" src="https://github.com/user-attachments/assets/608d45d0-4152-4a98-ae25-4c7cb2a1b397" />
 
-Chromium is an open-source browser project that aims to build a safer, faster,
+Jlomium is an open-source browser project that aims to build a safer, faster,
 and more stable way for all users to experience the web.
 
 The project's web site is https://www.chromium.org.
