@@ -1,6 +1,8 @@
 <img width="64" height="64" alt="product_logo_64" src="https://github.com/user-attachments/assets/608d45d0-4152-4a98-ae25-4c7cb2a1b397" />
 
-The official GitHub mirror of the Chromium source modified and made into a degoogled, ai blocking, security enhanced version of Chromium for my operating system known as BunnyBSD. 
+The official GitHub mirror of the Chromium source modified and made into a degoogled, ai blocking, security enhanced version of Chromium for my operating system known as BunnyBSD.
+
+Here is the GitHub repository for BunnyBSD:
 
 Documentation in the source is rooted in [docs/README.md](docs/README.md).
 
